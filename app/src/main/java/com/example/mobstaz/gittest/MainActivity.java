@@ -18,6 +18,12 @@ public class MainActivity extends AppCompatActivity
         int  ddsfsfs = 55;
         TextView tv_txt = findViewById(R.id.tv_txt);
 
+
+        int test = 55;
+        int cc = 88;
+        int gg = test + cc;
+
         int dd = 0;
+
     }
 }
