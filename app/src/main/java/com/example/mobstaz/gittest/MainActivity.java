@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity
 
         int  ddsfsfs = 55;
         TextView tv_txt = findViewById(R.id.tv_txt);
+
+        int dd = 0;
     }
 }
