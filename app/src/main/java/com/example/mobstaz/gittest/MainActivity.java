@@ -17,6 +17,11 @@ public class MainActivity extends AppCompatActivity
 
         TextView tv_txt = findViewById(R.id.tv_txt);
 
+        int test = 55;
+        int cc = 88;
+        int gg = test + cc;
+
+
 
     }
 }
