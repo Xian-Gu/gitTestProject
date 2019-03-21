@@ -15,8 +15,7 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        int  ddsfsfs = 55;
         TextView tv_txt = findViewById(R.id.tv_txt);
-
-
     }
 }
